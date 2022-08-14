@@ -88,8 +88,12 @@ DATABASES = {
         'PASSWORD': config('DB_PASSWORD'),
         'HOST': config('DB_HOST'),
         'PORT': config('DB_PORT'),
+        'DISABLE_SERVER_SIDE_CURSORS': True,
     }
 }
+
+
+
 
 
 # Password validation

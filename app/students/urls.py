@@ -7,7 +7,7 @@ from django.conf import settings
 
 urlpatterns = [
     # path('', students_views.index, name='index'),
-    path('', students_views.index1.as_view(), name='home'),
+    path('', students_views.index1.as_view(), name='home_student'),
     path('api/students/', students_views.student_list),
     path('api/students/<int:pk>/', students_views.student_detail),
     path('api/students/address/<str:address>/', students_views.student_list_address),
