@@ -1,0 +1,6 @@
+app/courses/migrations
+app/instructors/migrations
+app/students/migrations
+app/student_accounts/migrations
+venv
+.env
