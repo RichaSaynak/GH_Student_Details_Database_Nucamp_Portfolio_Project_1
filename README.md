@@ -14,3 +14,9 @@ Currently , I have created 6 tables in the database.
 
 
 Right now , I have just added these few tables, but will expand this project further later.
+
+
+I have done Unit testing for all the urls and Integration  testing for all the tables created.
+In integration testing, I have done testing for inserting records into the tables, checking if the records exists after insertion, whether we can update the records and comparing whether 2 records inserted have different primary keys.
+
+To check the tests , please run pytest -v in the /app folder
