@@ -7,10 +7,13 @@ For my Portfolio Project, I created a database storing students online course de
 
 Technologies used -
 1. Django
-2. Insomnia
-3. Git Workflow - for building and testing
-4. Deployed to Google Cloud
-5. Created unit and integration testing using pytests
+2. Docker
+3. Postgresql
+4. Pgadmin
+5. Insomnia
+6. Git Workflow - for building and testing
+7. Deployed to Google Cloud
+8. Created unit and integration testing using pytests
 
 I have not worked on the Front End part of the Project ( HTML, CSS , React, etc) as I am yet to learn that. So, I have used the basic Front End template as used in the workshops. I have used Insomnia to check the endpoints.
 
