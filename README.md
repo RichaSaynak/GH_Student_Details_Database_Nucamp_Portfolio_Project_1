@@ -44,7 +44,7 @@ I have attached the ER diagram - student_database_ER_diagram.
 
 # Information about the table columns -
 
-1.Student_Account Table
+1. Student_Account Table
 Columns - ID, username(unique and not null), password(not null). 
 
 2. Student Table
