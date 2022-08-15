@@ -157,8 +157,8 @@ I have created this students_database_django_workflow ( https://github.com/Richa
 
 1. I have created this workflow in the app folder as I was having some issues when I created in the main folder ( 1 folder up the App folder ).
 2. So, I have created  this repository for the workflow where I created the workflow in my app folder . This is the repository - https://github.com/RichaSaynak/students_database_django_workflow . Here the workflow runs successfully after every push and pull.
-4. I tried running the workflow from this cuurent main repository ( https://github.com/RichaSaynak/GH_Student_Details_Database_Nucamp_Portfolio_Project_1.git ) by writing cd app but it was giving me different types of errors. So created a new repository for the app folder.
-5. As I was short of time couldn't investigate further.
+3. I tried running the workflow from this cuurent main repository ( https://github.com/RichaSaynak/GH_Student_Details_Database_Nucamp_Portfolio_Project_1.git ) by writing cd app but it was giving me different types of errors. So created a new repository for the app folder.
+4. As I was short of time couldn't investigate further.
 
 
 # Deployed to Google Cloud
@@ -190,6 +190,7 @@ I faced many difficulties while doing this project and so I am very happy to fin
 5. I got multiple issues while testing the API endpoints. I ggogled the errors and solved them.
 6. I had issues while creating integration tests for tables which had foreign keys. I googled and got the answers.
 7. I had issues while creating the Git workflow. The migration run check was failing. Again googled, researched and got the answers.
+8. I have created GIT workflow in the app folder as I was having some issues when I created in the main folder ( 1 folder up the App folder ,the one with docker-compose file ).So, I have created the repository for the workflow where I created the workflow in my app folder.
 
 
 
