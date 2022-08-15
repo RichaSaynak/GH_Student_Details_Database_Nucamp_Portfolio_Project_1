@@ -170,12 +170,12 @@ I have deployed my project to Google Cloud and it works .
 
 Below are the links. As mentioned earlier , I have not worked on the Front End Part as I am yet to learn it , so used the Front End part from the Workshop's Tutorial  application.
 
-https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app                                              - Will display all the Students
-https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/student_accounts/                            - Will display all the student accounts
-https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/courses/                                     - Will display all courses
-https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/instructors/                                 - Will display all instructors
-https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/api/grades/                                  - Will display the grades received
-https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/api/attendances/                             - Will display the attendance record
+1. https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app                                              - Will display all the Students
+2. https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/student_accounts/                            - Will display all the student accounts3. 
+3. https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/courses/                                     - Will display all courses
+4. https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/instructors/                                 - Will display all instructors
+5. https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/api/grades/                                  - Will display the grades received
+6. https://portfolioprojectcloud-dmm3mqgx6q-uc.a.run.app/api/attendances/                             - Will display the attendance record
 
 
 I will attach the Insomnia Request Collection for the POST methods. As, I have alreday shared many different methods and endpoints above, I won't be repeating again here.
@@ -194,6 +194,7 @@ I faced many difficulties while doing this project and so I am very happy to fin
 6. I had issues while creating integration tests for tables which had foreign keys. I googled and got the answers.
 7. I had issues while creating the Git workflow. The migration run check was failing. Again googled, researched and got the answers.
 8. I have created GIT workflow in the app folder as I was having some issues when I created in the main folder ( 1 folder up the App folder ,the one with docker-compose file ).So, I have created the repository for the workflow where I created the workflow in my app folder.
+9. Also faces issues while pushing to git repository.
 
 
 
